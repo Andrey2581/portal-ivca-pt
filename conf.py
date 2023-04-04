@@ -18,7 +18,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'template'
+project = u'Portal IVCA'
 copyright = u', Adventist Institute of Technology'
 author = u'IATec'
 
